@@ -1,6 +1,5 @@
 # U1_Post1_02230131003_Cruz_MariaJose
 
-<h1 style="color:#87CEFA;"> U1_Post1_02230131003_Cruz_MariaJose.zip</h1>
 
 <h2 style="color:#4682B4;">VIOLACIONES SOLID</h2>
 
